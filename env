@@ -1,0 +1,18 @@
+# ============================================================
+#  VARS · Environment Configuration
+#  NEVER commit this file to version control.
+# ============================================================
+
+# ── Database ─────────────────────────────────────────────────
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_NAME=vars
+DB_USER=varsdb
+DB_PASS=Cyber@51088
+
+# ── Admin account (used only during first-time DB seed) ──────
+ADMIN_USERNAME=admin
+ADMIN_PASSWORD=Change_Me_Now!
+ADMIN_FULL_NAME=Administrator
+ADMIN_LOCATION=SJP
+
